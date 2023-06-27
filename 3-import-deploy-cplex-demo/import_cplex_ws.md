@@ -32,7 +32,7 @@ By the end of this tutorial, you'll have a solid foundation for creating complex
 - On the 'Manage' tab of your project, select the 'Services and integrations' section and click 'Associate service'. Select an existing Machine Learning service instance (or create a new one) and click 'Associate service'.
 - On the 'Assets' tab of your project, click 'New asset'.
 - Select 'Jupyter notebook editor' and from the tabs, click 'From URL'
-- Provide a name ex 'Import CPLEX Demo' and in the notebook URL, copy and paste `placeholder` into the input box and click 'Create'
+- Provide a name ex 'Import CPLEX Demo' and in the notebook URL, copy and paste `https://github.com/ibm-build-lab/Watson-Studio-Workshop/blob/main/3-import-deploy-cplex-demo/CPLEX%20Import%20demo.ipynb` into the input box and click 'Create'
 
 
 ### 2. Create a Deployment Space
