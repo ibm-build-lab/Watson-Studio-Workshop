@@ -119,4 +119,4 @@ class MipGapPlotter(ProgressListener):
 ```
 ​
 ## Summary
-You have learned how to set up and use the IBM Decision Optimization CPLEX Modeling for Python to formulate a Mathematical Programming model and track its progress. mode detailed document available (here)[https://github.com/IBMDecisionOptimization/DO-Samples/blob/watson_studio_cloud/jupyter/Watson%20Studio%20Public/Using%20the%20Progress%20Listeners%20with%20CPLEX%20Optimizer.ipynb]
+You have learned how to set up and use the IBM Decision Optimization CPLEX Modeling for Python to formulate a Mathematical Programming model and track its progress. mode detailed document available [here](https://github.com/IBMDecisionOptimization/DO-Samples/blob/watson_studio_cloud/jupyter/Watson%20Studio%20Public/Using%20the%20Progress%20Listeners%20with%20CPLEX%20Optimizer.ipynb)
